@@ -1,4 +1,4 @@
-# Holy Cross Button - LightSpot Template
+# Holy Cross Button
 
 This project is a web application that generates inspirational quotes using a cross-shaped button. It includes audio playback of quotes and sharing options.
 
